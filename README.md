@@ -8,7 +8,7 @@
 <h3 align="center">💻 Passionate Developer | Exploring the Boundless World of Technology 🌍</h3>
 
 <p align="center">
-  <a href="https://wa.me/263780958186" target="_blank">
+  <a href="https://wa.me/255770957459" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="WhatsApp" height="30" width="30">
     <strong> FREE WA BOT</strong>
   </a>
@@ -42,14 +42,14 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Developer
 
-**Malvin King (XdKing2)**
+**Admin Tech (XdKing2)**
 
 - GitHub: [@XdKing2](https://github.com/XdKing2)
-- WhatsApp Channel: [Join Channel](https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S)
+- WhatsApp Channel: [Join Channel]((https://whatsapp.com/channel/0029Vb6n6JUChq6TYuFheW02))
 
 ## 💬 Support
 
-For support, join our [WhatsApp Channel](https://whatsapp.com/channel/0029VbB3YxTDJ6H15SKoBv3S) or open an issue on GitHub.
+For support, join our [WhatsApp Channel]((https://whatsapp.com/channel/0029Vb6n6JUChq6TYuFheW02)) or open an issue on GitHub.
 
 ---
 
@@ -57,7 +57,7 @@ For support, join our [WhatsApp Channel](https://whatsapp.com/channel/0029VbB3Yx
 
 **© 2025 Free Mini. Powered by Malvin Tech. All rights reserved.**
 
-Made with ❤️ by Malvin King
+Made with ❤️ by Admin Tech
 
 </div>
 
